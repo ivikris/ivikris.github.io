@@ -1,6 +1,6 @@
 {
-    "name": "demoapp",
-    "short_name": "demoapp",
+    "name": "kidlongi",
+    "short_name": "kidlongi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
